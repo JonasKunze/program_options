@@ -30,7 +30,7 @@ namespace boost { namespace program_options {
 
     /** Results of parsing an input source.
         The primary use of this class is passing information from parsers
-        component to value storage component. This class does not makes
+        component to value storage component. This class does not make
         much sense itself.
     */
     template<class charT>
